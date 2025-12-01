@@ -18,7 +18,7 @@ Deployment instructions here use Render / Railway / Vercel instead.
 
 📝 Posts system (create posts, like/unlike, delete, comment)
 
-🗄️ MongoDB Atlas for cloud database
+🗄️ MongoDB for cloud database
 
 🔧 Node.js + Express backend
 
@@ -26,15 +26,6 @@ Deployment instructions here use Render / Railway / Vercel instead.
 
 🔄 Integrated dev environment using concurrently
 
-🗂️ Project Structure
-root/
-│── client/           # React frontend
-│── config/           # DB config
-│── middleware/       # Auth middleware (JWT)
-│── models/           # Mongoose schemas (User, Profile, Post)
-│── routes/api/       # Express API routes
-│── server.js         # App entry point
-│── package.json
 
 🚀 Tech Stack
 Frontend
