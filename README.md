@@ -1,9 +1,9 @@
 # DevConnector
 
-![Node.js](https://img.shields.io/badge/Node.js-Express-43853D?logo=node.js)
-![React](https://img.shields.io/badge/React-17-61DAFB?logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?logo=mongodb)
-[![Live](https://img.shields.io/badge/live-devconnector--coc3.onrender.com-success)](https://devconnector-coc3.onrender.com)
+![Node.js](https://img.shields.io/badge/Node.js-Express-43853D?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/React-17-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb)
+[![Live](https://img.shields.io/badge/live-devconnector--coc3.onrender.com-success?style=for-the-badge)](https://devconnector-coc3.onrender.com)
 
 A social network for developers. Users register, build a profile (bio, skills, experience and education timeline, GitHub username), and post to a public feed with likes and threaded comments. A profile page can also pull in that user's five most recent GitHub repositories. Client and API live in one repo (`client/`, root) behind a JWT-secured REST API.
 
