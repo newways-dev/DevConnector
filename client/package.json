@@ -20,6 +20,14 @@
     "uuid": "^8.3.2",
     "web-vitals": "^1.1.1"
   },
+  "overrides": {
+    "postcss-safe-parser": {
+      "postcss": "8.4.31"
+    },
+    "resolve-url-loader": {
+      "postcss": "8.4.31"
+    }
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
